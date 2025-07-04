@@ -286,4 +286,10 @@ footer {
     height: 40rem;
     margin-bottom: 1rem;
   }
+    .skills-box-title {
+    width: 30%;
+  }
+  .skills-box-progress {
+    width: 65%;
+  }
 }
